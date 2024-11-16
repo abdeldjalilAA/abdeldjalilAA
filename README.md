@@ -1,3 +1,23 @@
+<h1 align="center">Hi 👋, I'm Abdelouahed Abdeljalil</h1>
+<h3 align="center">Hi! I’m Abdelouahed Abdeljalil, a passionate Frontend Developer and MERN Stack learner. My journey is driven by creating responsive, dynamic, and user-friendly web applications. I also have experience in sales management, IT support, and professional presentation creation for major corporate events.</h3>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdeldjalil" alt="abdeldjalil" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@fabscanon" target="blank"><img src="https://img.shields.io/twitter/follow/@fabscanon?logo=twitter&style=for-the-badge" alt="@fabscanon" /></a> </p>
+
+- 🔭 I’m currently working on **G M I Algerie**
+
+- 🌱 I’m currently learning **python,typscript,prisma**
+
+- 🤝 I’m looking for help with **network**
+
+- 💬 Ask me about **react,javascript**
+
+- 📫 How to reach me **abdo.fabs@gmail.com**
+
+
+
 # 💫 About Me:
 🌍 Based in Oued Fodda, Algeria<br>🎓 Bachelor's Degree with a project in Parking Management System Design<br>🛠️ Proficient in React JS, HTML, CSS, JavaScript, PHP, and MongoDB<br>🌱 Currently learning TypeScript and building professional projects for my portfolio<br>🏢 Professional roles in Software Engineering, after-sales services, and project management<br>🎉 Successfully contributed to GMI's 25th Anniversary Event by presenting and creating interactive content
 
