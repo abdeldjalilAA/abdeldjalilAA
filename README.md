@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **G M I Algerie**
 
-- 🌱 I’m currently learning **python,typscript,prisma**
+- 🌱 I’m currently learning **python, typscript, prisma**
 
 - 🤝 I’m looking for help with **network**
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **react, javascript**
 
 - 📫 How to reach me **abdo.fabs@gmail.com**
 
@@ -22,9 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@fabscanon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fabscanon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdelouahed-abdeldjalil-a133a919a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelouahed-abdeldjalil-a133a919a/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/abdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abdo" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100069856617270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100069856617270" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdelouahed-abdeldjalil-a133a919a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelouahed-abdeldjalil-a133a919a/" height="30" width="40" /></a>
 <a href="https://instagram.com/abdeljalilabdelouahed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdeljalilabdelouahed" height="30" width="40" /></a>
 </p>
 
