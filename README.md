@@ -14,14 +14,15 @@
 - 🤝 **Looking for:** Networking opportunities in the tech industry
 - 📩 **How to reach me:** abdo.fabs@gmail.com
 - ✨ **Recently:** Presented at GMI’s 25th Anniversary Event & Managed WordPress Website Deployment
-- 🌟 **Working on:** A React project replicating [Energy Access](https://www.energy-access.fr/), ensuring responsiveness & animations
+- 🌟 **Working on:** A modernized React project replicating [Energy Access](https://www.energy-access.fr/) with improved responsiveness & animations
 - 🚀 **Exploring:** AI, Next.js, and Cloud Deployments
+- 🏆 **Educational Background:** Master's Degree in Computer Science
 
 ---
 
 ## 🌍 Where I'm Based:
 📍 **Oued Fodda, Algeria**  
-🎓 **Bachelor’s in Computer Science - Parking Management System Design**  
+🎓 **Master’s in Computer Science**  
 🏢 **Roles:** Software Engineer, Sales Manager, IT Support  
 🎤 **Successfully Presented at GMI’s 25th Anniversary Event**  
 
@@ -33,13 +34,14 @@
   <a href="https://instagram.com/abdeljalilabdelouahed" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://linkedin.com/in/abdelouahed-abdeldjalil-a133a919a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/@fabscanon" target="_blank"><img src="https://img.shields.io/badge/X-%23121011.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://github.com/DjezzarBilal" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,php,redux,tailwind,sass,bootstrap,vercel,git,github,figma,canva,java,py" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,php,firebase,redux,tailwind,sass,bootstrap,vercel,git,github,canva,py" />
 </p>
 
 ---
@@ -47,7 +49,6 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdeldjalilAA&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdeldjalilAA&theme=radical&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdeldjalilAA&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
@@ -66,6 +67,7 @@
 - 📌 **Strengthening My TypeScript & Python Skills**
 - 💍 **Expanding My Network & Collaborating on Open Source Projects**
 - ⚙️ **Deploying MERN Stack Apps with Cloud Integration**
+- 🏗 **Created and Completed a Modernized Clone of Energy Access with [Djezzar Bilal](https://github.com/DjezzarBilal)**
 
 ---
 
