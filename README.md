@@ -8,11 +8,14 @@
 ---
 
 ## 🚀 About Me:
-- 🔭 **Currently working at:** [GMI Algerie](https://gmi-groupe.com/)
+- 🔯 **Currently working at:** [GMI Algerie](https://gmi-groupe.com/)
 - 🌱 **Learning:** Python, TypeScript, Prisma
 - 💬 **Ask me about:** React, JavaScript, Frontend Development
 - 🤝 **Looking for:** Networking opportunities in the tech industry
 - 📩 **How to reach me:** abdo.fabs@gmail.com
+- ✨ **Recently:** Presented at GMI’s 25th Anniversary Event & Managed WordPress Website Deployment
+- 🌟 **Working on:** A React project replicating [Energy Access](https://www.energy-access.fr/), ensuring responsiveness & animations
+- 🚀 **Exploring:** AI, Next.js, and Cloud Deployments
 
 ---
 
@@ -61,7 +64,8 @@
 - 🚀 **Building Dynamic & Responsive Websites**
 - 💡 **Exploring Prisma for Database Management**
 - 📌 **Strengthening My TypeScript & Python Skills**
-- 🔗 **Expanding My Network & Collaborating on Open Source Projects**
+- 💍 **Expanding My Network & Collaborating on Open Source Projects**
+- ⚙️ **Deploying MERN Stack Apps with Cloud Integration**
 
 ---
 
@@ -73,7 +77,7 @@
 ---
 
 ## 🚀 Fun Fact:
-⚡ I love combining technology and creativity to solve real-world problems!  
+💡 I love combining technology and creativity to solve real-world problems!  
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=abdeldjalilAA&icon=0&color=0" alt="Profile Views">
@@ -83,5 +87,4 @@
 
 🔥 **Let's build something amazing together!** 🚀  
 💡 **Looking for collaborations? Reach out to me!**  
-📬 **Email:** abdo.fabs@gmail.com
-
+📨 **Email:** abdo.fabs@gmail.com
