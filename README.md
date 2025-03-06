@@ -9,7 +9,7 @@
 
 ## 🚀 About Me:
 - 🔯 **Currently working at:** [GMI Algerie](https://gmi-groupe.com/)
-- 🏗 **Created and Completed a Modernized Clone of GMI groupe Algerie with [Djezzar Bilal](https://github.com/DjezzarBilal)**
+- 🏗 **Created and Completed a Modernized Website of GMI groupe Algerie with [Djezzar Bilal](https://github.com/DjezzarBilal)**
 - 🌱 **Learning:** Python, TypeScript, Prisma
 - 💬 **Ask me about:** React, JavaScript, Frontend Development
 - 🤝 **Looking for:** Networking opportunities in the tech industry
