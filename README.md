@@ -9,6 +9,7 @@
 
 ## 🚀 About Me:
 - 🔯 **Currently working at:** [GMI Algerie](https://gmi-groupe.com/)
+- 🏗 **Created and Completed a Modernized Clone of GMI groupe Algerie with [Djezzar Bilal](https://github.com/DjezzarBilal)**
 - 🌱 **Learning:** Python, TypeScript, Prisma
 - 💬 **Ask me about:** React, JavaScript, Frontend Development
 - 🤝 **Looking for:** Networking opportunities in the tech industry
@@ -82,7 +83,7 @@
 💡 I love combining technology and creativity to solve real-world problems!  
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=abdeldjalilAA&icon=0&color=0" alt="Profile Views">
+
 </p>
 
 ---
