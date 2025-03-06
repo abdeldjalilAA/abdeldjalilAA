@@ -35,7 +35,7 @@
   <a href="https://instagram.com/abdeljalilabdelouahed" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://linkedin.com/in/abdelouahed-abdeldjalil-a133a919a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/@fabscanon" target="_blank"><img src="https://img.shields.io/badge/X-%23121011.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://github.com/DjezzarBilal" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/abdeldjalilAA" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
