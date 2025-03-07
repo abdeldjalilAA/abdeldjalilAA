@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me:
-- 🔯 **Currently working at:** [GMI Algerie](https://gmi-groupe.com/)
+- **Currently working at:** [GMI Algerie](https://gmi-groupe.com/)
 - 🏗 **Created and Completed a Modernized Website of GMI groupe Algerie with [Djezzar Bilal](https://github.com/DjezzarBilal)**
 - 🌱 **Learning:** Python, TypeScript, Prisma
 - 💬 **Ask me about:** React, JavaScript, Frontend Development
